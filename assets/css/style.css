@@ -1,11 +1,17 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header {
     background-color: dodgerblue;
+    border: 10xp solid rgb(230, 243, 250);
+    padding: 5xp;
+    margin: 10xp;
+    color: aliceblue;
+
 }
-h1 { color: aliceblue;}
-nav { background-color: rgb(255, 123, 0);}
-h2 { color: rgb(8, 22, 102);}
+nav { background-color: rgb(245, 132, 3);
+    border: 5px solid rgb(15, 90, 252))
 main { background-color: darkgray;}
 section { background-color: rgb(243, 208, 12);}
-h3 { color: black;}
 article { color: rgb(16, 243, 118);}
+aside { background-color: rgb(157, 76, 182);}
+p { color: aliceblue;}
+footer { background-color: rgb(109, 109, 109);}
