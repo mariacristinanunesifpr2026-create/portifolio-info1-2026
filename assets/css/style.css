@@ -29,7 +29,7 @@ section { background-color: rgb(235, 213, 21);
     background-clip: content-box;
 }
 
-article { color: rgb(16, 243, 118);
+article { background-color: rgb(16, 243, 118);
      border: 2px dotted rgb(42, 102, 55);
     padding: 5px;
     margin: 10px;
