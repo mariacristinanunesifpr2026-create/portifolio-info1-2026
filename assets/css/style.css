@@ -1,17 +1,57 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header {
     background-color: dodgerblue;
-    border: 10xp solid rgb(230, 243, 250);
-    padding: 5xp;
-    margin: 10xp;
+    border: 10px solid rgb(230, 243, 250);
+    padding: 5px;
+    margin: 10px;
     color: aliceblue;
+    background-clip: content-box;
 
 }
 nav { background-color: rgb(245, 132, 3);
-    border: 5px solid rgb(15, 90, 252))
-main { background-color: darkgray;}
-section { background-color: rgb(243, 208, 12);}
-article { color: rgb(16, 243, 118);}
-aside { background-color: rgb(157, 76, 182);}
-p { color: aliceblue;}
-footer { background-color: rgb(109, 109, 109);}
+    border: 5px solid rgb(78, 112, 185);
+    padding: 5px;
+    margin: 10px;
+    background-clip: content-box;
+}
+
+main { background-color: darkgray;
+     border: 10px solid rgb(230, 232, 233);
+    padding: 20px;
+    margin: 20px;
+    background-clip: content-box;
+}
+
+section { background-color: rgb(243, 208, 12);
+     border: 8px solid rgb(230, 232, 233);
+    padding: 15px;
+    margin: 10px;
+    background-clip: content-box;
+}
+
+article { color: rgb(16, 243, 118);
+     border: 2px dotted rgb(42, 102, 55);
+    padding: 5px;
+    margin: 10px;
+    color: black;
+    background-clip: content-box;
+}
+
+aside { background-color: rgb(157, 76, 182);
+     border: 8px solid rgb(234, 239, 241);
+     background-clip: content-box;
+     padding: 5px;
+     margin: 10px;
+     color: aliceblue;
+     background-clip: content-box;
+}
+
+footer { background-color: rgb(24, 43, 105);
+    border: 8px solid rgb(230, 232, 233);
+    background-clip: content-box;
+    padding: 25px;
+    margin: 10px;
+    color: aliceblue;
+    background-clip: content-box;
+    text-align: center;
+}
