@@ -22,7 +22,7 @@ main { background-color: darkgray;
     background-clip: content-box;
 }
 
-section { background-color: rgb(243, 208, 12);
+section { background-color: rgb(235, 213, 21);
      border: 8px solid rgb(230, 232, 233);
     padding: 15px;
     margin: 10px;
