@@ -7,7 +7,8 @@ justify-content: center;
     background-color: rgb(226, 27, 27);
     flex-direction: row;
     justify-content: center;
-    height: 44px;
+    width: 45px;
+    height: 45px;
     margin: 10px;
     padding: 10px;
 }
