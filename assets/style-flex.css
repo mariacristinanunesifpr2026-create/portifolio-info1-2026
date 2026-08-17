@@ -1,14 +1,13 @@
 .container{display: flex;
 background-color: darkgray;
 ;flex-direction: row;
-height: 100px;
-margin: 10px;
-padding: 10px;
+justify-content: center;
 }
 .quadrado_vermelho{display: flex;
     background-color: rgb(226, 27, 27);
+    flex-direction: row;
     justify-content: center;
-    height: 45px;
+    height: 44px;
     margin: 10px;
     padding: 10px;
 }
