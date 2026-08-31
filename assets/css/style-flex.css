@@ -4,6 +4,15 @@ background-color: darkgray;
 justify-content: center;
 }
 
+.quadrado_azul { display: flex;
+    background-color: rgb(0, 132, 255);
+    flex-direction: row;
+    justify-content: start;
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+    padding: 10px;}
+
 .quadrado_vermelho{display: flex;
     background-color: rgb(226, 27, 27);
     flex-direction: row;
@@ -13,15 +22,6 @@ justify-content: center;
     margin: 10px;
     padding: 10px;
 }
-
-.quadrado_azul { display: flex;
-    background-color: rgb(0, 132, 255);
-    flex-direction: row;
-    justify-content: start;
-    width: 45px;
-    height: 45px;
-    margin: 10px;
-    padding: 10px;}
 
 .quadrado_amarelo { display: flex;
     background-color: rgb(255, 251, 0);
